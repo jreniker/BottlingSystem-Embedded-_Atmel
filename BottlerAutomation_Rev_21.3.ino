@@ -146,7 +146,7 @@ void setup() {
   lcd.setCursor ( 0, 0 );            // go to the top left corner
   lcd.print("                    "); // write this string on the top row
   lcd.setCursor ( 0, 1 );            // go to the 2nd row
-  lcd.print("    Deer  Defeat    "); // pad string with spaces for centering
+  lcd.print("       Bottler      "); // pad string with spaces for centering
   lcd.setCursor ( 0, 2 );            // go to the third row
   lcd.print("                    "); // pad with spaces for centering
   lcd.setCursor ( 0, 3 );            // go to the fourth row

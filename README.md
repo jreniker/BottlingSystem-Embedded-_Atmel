@@ -7,7 +7,7 @@ fluid was observed exiting the overflow for all six nozzles.  This mechanical pr
 concentration, delivered inconsistent results requiring manual "top offs", was inefficient since the operator could
 not multi-task staging new bottles, or moving the prior fill downline.
 
-Experimentation demonstrated a time based fill with appropriately sized pumps delivered consistent results.
+Experimentation demonstrated a time based fill with appropriately sized pumps delivered sufficiently consistent results.
    > If bottling outside, the temperature will impact fill accuracy as plastic bottles may relax in the sun.
    > Bottles left in the sun will be filled inconsistently.
    > Centrifugal pumps will not deliver consistent fill.

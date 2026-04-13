@@ -10,7 +10,7 @@ not multi-task staging new bottles, or moving the prior fill downline.
 Experimentation demonstrated a time based fill with appropriately sized pumps delivered consistent results.
    > If bottling outside, the temperature will impact fill accuracy as plastic bottles may relax in the sun.
    > Bottles left in the sun will be filled inconsistently.
-   > Centrifugal pumps will not deliver consistent fill
+   > Centrifugal pumps will not deliver consistent fill.
    > Use a positive displacement pump such as a double diaphragm.  Do not oversize it.
    > Consider your pump displacement rate, and make sure you can consistently pressurize all nozzles.
    > Do not oversize your pump since it will pressurize your bottles too leading to an inconsistent fill.

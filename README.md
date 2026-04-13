@@ -31,3 +31,5 @@ Tips:  For hardware, use SSR's and not mechanical relays.  Noise in the system r
 "snubbers" as mechanical relays were energized.  The original hardware version used a high-current contactor, which
 also generated noise significant enough to cause the platform to occasionally lose state and crash.  The contactor
 was replaced by a high current solid state version.  Solid state relays are the way.  
+
+The code is mine - if you use it, let me know!

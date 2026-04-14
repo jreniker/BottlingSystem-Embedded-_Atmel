@@ -11,16 +11,18 @@ Experimentation demonstrated a time based fill with appropriately sized pumps de
    > If bottling outside, the temperature will impact fill accuracy as plastic bottles may relax in the sun.
    > Bottles left in the sun will be filled inconsistently.
    > Centrifugal pumps will not deliver consistent fill.
-   > Use a positive displacement pump such as a double diaphragm.  Do not oversize it.
-   > Consider your pump displacement rate, and make sure you can consistently pressurize all nozzles.
-   > Do not oversize your pump since it will pressurize your bottles too leading to an inconsistent fill.
+   > Use a positive displacement pump such as a double diaphragm.  Do not oversize it, don't undersize it.
+   > Consider your pump displacement rate, and make sure you can consistently SLIGHTLY pressurize all nozzles.
+   > Do not oversize your pump too much since it will inflate your bottles leading to an inconsistent fill.
+   > Once you understand the function of an overflow nozzle, it will be easier to find the balance between
+     pressurizing your nozzles, but not pressurizing your bottles.
    > An ideal setup may be to build a tank for your product above your bottling system, use a fill valve to
      maintain a constant level in your tank, but use gravity to fill all nozzles.
    > The pneumatic system is low pressure and uses a specific pneumatic cylinder with internal bumpers for slow
      open and close.  The pneumatic system also used small pilot air solenoid valves operated off of 12v or 120v
      with a controllable exhaust, actuated by the microcontroller.
    > This system was my own design based on how I thought a cylinder should operate, how a nozzle carrier should
-     be built, and even drafted the designs for the controller enclosure and 3D printed it.
+     be built, and even drafted the designs for the controller enclosure and 3D printed it for ease of operator use.
 
 This is really maker project that was used in production, but the principals of process design, pneumatic system
 design, control design, all make an appearance here.  Ultimately my "customer" was able to reduce production for the 
